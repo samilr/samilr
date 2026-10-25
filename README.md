@@ -27,7 +27,7 @@ I'm a software engineer with **8+ years** building and running production system
 
 **Languages**
 
-<p align="left"><img src="https://skillicons.dev/icons?i=py,java,cs,ts,js,kotlin&perline=12" alt="Languages" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=py,java,cs,ts,js,kotlin,dart&perline=12" alt="Languages" /></p>
 
 **Backend**
 
@@ -54,10 +54,15 @@ I'm a software engineer with **8+ years** building and running production system
 **Front end & mobile**
 
 <p align="left"><img src="https://skillicons.dev/icons?i=react,angular,vue,html,css,flutter&perline=12" alt="Front end and mobile" /></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo">
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" alt="Ionic">
+</p>
 
 **Data & messaging**
 
-<p align="left"><img src="https://skillicons.dev/icons?i=postgres,mysql,redis,kafka,firebase&perline=12" alt="Data and messaging" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,firebase&perline=12" alt="Data and messaging" /></p>
 <p align="left">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
@@ -68,6 +73,7 @@ I'm a software engineer with **8+ years** building and running production system
 <p align="left"><img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,gitlab,github,git&perline=12" alt="Cloud and DevOps" /></p>
 <p align="left">
   <img src="https://img.shields.io/badge/Red%20Hat%20OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white" alt="OpenShift">
+  <img src="https://img.shields.io/badge/Oracle%20WebLogic-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle WebLogic">
   <img src="https://img.shields.io/badge/Azure%20Pipelines-2560E0?style=flat-square&logo=azurepipelines&logoColor=white" alt="Azure Pipelines">
   <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Certified Cloud Practitioner">
   <img src="https://img.shields.io/badge/Microsoft%20Certified-AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="AZ-900">
